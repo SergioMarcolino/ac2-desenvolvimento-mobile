@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38223745934",
+    "project_id": "simulado-842e2",
+    "storage_bucket": "simulado-842e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38223745934:android:11e6592b820289c0df0adf",
+        "android_client_info": {
+          "package_name": "com.example.simulado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Q59EJX2GQc9iDXSMVP4LKWeDivNWHS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

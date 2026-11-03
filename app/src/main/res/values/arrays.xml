@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="generos_array">
+        <item>Selecione o gênero</item>
+        <item>Romance</item>
+        <item>Fantasia</item>
+        <item>Terror</item>
+        <item>Ficção Científica</item>
+        <item>Biografia</item>
+        <item>Outros</item>
+    </string-array>
+
+    <string-array name="status_array">
+        <item>Selecione o status de leitura</item>
+        <item>Quero ler</item>
+        <item>Lendo</item>
+        <item>Concluído</item>
+    </string-array>
+
+    <string-array name="filtro_generos_array">
+        <item>Todos os gêneros</item>
+        <item>Romance</item>
+        <item>Fantasia</item>
+        <item>Terror</item>
+        <item>Ficção Científica</item>
+        <item>Biografia</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
